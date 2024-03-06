@@ -22,6 +22,7 @@ var plusOne = function (digits) {
 };
 
 // Runtime 50 ms / Memory 48.73 mb
+
 console.log(plusOne([1, 2, 3]));
 console.log(plusOne([4, 3, 2, 1]));
 console.log(plusOne([9]));

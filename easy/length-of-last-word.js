@@ -7,6 +7,8 @@ var lengthOfLastWord = function (s) {
   return lastWord.length;
 };
 
+
 // Runtime 51 ms / Memory 48.86 mb
+
 console.log(lengthOfLastWord("   fly me   to   the moon  "));
 console.log(lengthOfLastWord("fluffy is still boy"));

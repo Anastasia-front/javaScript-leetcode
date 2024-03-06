@@ -29,6 +29,8 @@ var isPalindrome = function (x) {
   }
   return original === reverseNum;
 };
+
 // Runtime 111 ms / Memory 56.52 mb
+
 console.log('isPalindrome with solution as number - Runtime 111 ms / Memory 56.52 mb')
 console.log(isPalindrome(9999))

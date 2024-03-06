@@ -22,6 +22,7 @@ var isValid = function (s) {
 };
 
 // Runtime 59 ms / Memory 49.84 mb
+
 console.log(isValid("()[]{}"));
 console.log(isValid("(]{}"));
 console.log(isValid("[}"));

@@ -21,6 +21,8 @@ var twoSum = function (numbers, target) {
   }
   return []
 };
+
 // Runtime 57 ms / Memory 49.36 mb
+
 console.log(twoSum([2, 3, 4, 5, 6, 7], 15));
 console.log(twoSum([22, 13, 34, 52, 61, 70], 35));

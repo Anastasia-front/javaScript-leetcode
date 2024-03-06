@@ -19,5 +19,6 @@ var longestCommonPrefix = function (strings) {
 };
 
 // Runtime 59 ms / Memory 49.06 mb
+
 console.log(longestCommonPrefix(["hghg", "hghe", "hgre"]));
 console.log(longestCommonPrefix(["trew", "trewq", "trewqa"]));
